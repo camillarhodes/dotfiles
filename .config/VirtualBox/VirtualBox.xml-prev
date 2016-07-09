@@ -10,10 +10,10 @@
     <ExtraData>
       <ExtraDataItem name="GUI/DetailsPageBoxes" value="general,system,preview,display,storage,audio,network,usb,sharedFolders,description"/>
       <ExtraDataItem name="GUI/LastItemSelected" value="m=Windows 7"/>
-      <ExtraDataItem name="GUI/LastWindowPosition" value="2,26,958,1054"/>
+      <ExtraDataItem name="GUI/LastWindowPosition" value="962,26,958,1054"/>
       <ExtraDataItem name="GUI/SplitterSizes" value="318,636"/>
-      <ExtraDataItem name="GUI/UpdateCheckCount" value="3"/>
-      <ExtraDataItem name="GUI/UpdateDate" value="1 d, 2016-06-20, stable, 5.0.22"/>
+      <ExtraDataItem name="GUI/UpdateCheckCount" value="4"/>
+      <ExtraDataItem name="GUI/UpdateDate" value="1 d, 2016-06-30, stable, 5.0.22"/>
     </ExtraData>
     <MachineRegistry>
       <MachineEntry uuid="{9221b1ad-45cb-4622-a8b0-9ec929add787}" src="/home/guy/VirtualBox VMs/Windows 7/Windows 7.vbox"/>
